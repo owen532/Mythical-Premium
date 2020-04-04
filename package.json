@@ -1,0 +1,16 @@
+{
+  "name": "smjsbot",
+  "version": "0.2.0",
+  "description": "A bot meant to function like the UGD bot but for GD private servers",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "SMJS",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.6.3",
+    "request": "^2.88.0",
+    "string-pixel-width": "^1.10.0"
+  }
+}
